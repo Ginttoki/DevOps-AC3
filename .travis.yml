@@ -1,8 +1,8 @@
 language: python
 python:
- - "3.6.2"
-script:
-- py.test test.py
+  - "3.6.2"
+script: 
+  - py.test test.py
 
 after script:
 notifications:
