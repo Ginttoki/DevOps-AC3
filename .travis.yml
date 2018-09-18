@@ -6,5 +6,5 @@ script:
 
 after script:
 notifications:
-recipients:
-- emanoeldacostaoliveira@outlook.com
+  recipients:
+    - emanoeldacostaoliveira@outlook.com
