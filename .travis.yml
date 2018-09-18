@@ -1,8 +1,8 @@
 language: python
 python:
-print ('hello world')
+ - "3.6.2"
 script:
-- py.teste teste.py
+- py.test test.py
 
 after script:
 notifications:
