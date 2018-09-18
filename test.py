@@ -1,5 +1,5 @@
 import pytest
 from main import *
 
-def soma ():
+def soma():
     assert soma(1 , 2) == 3
