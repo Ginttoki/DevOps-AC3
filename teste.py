@@ -1,2 +1,2 @@
-import pytest
-print ('Hello World')
+def impressao(mensagem):
+    print (mensagem)
