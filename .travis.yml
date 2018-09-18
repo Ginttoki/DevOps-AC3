@@ -1,0 +1,10 @@
+language: python
+python:
+print ('hello world')
+script:
+- py.teste teste.py
+
+after script:
+notifications:
+recipients:
+- emanoeldacostaoliveira@outlook.com
